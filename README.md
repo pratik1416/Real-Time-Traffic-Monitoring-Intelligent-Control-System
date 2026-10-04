@@ -64,7 +64,7 @@ An **AI-powered smart traffic management system** that leverages **YOLOv8** for 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/prattyan/traffic-manage
+git clone https://github.com/pratik1416
 cd traffic-manage
 ```
 
@@ -135,9 +135,9 @@ python evaluate.py --dataset path/to/dataset
 
 ## 🧑‍💻 Author
 
-**Prattyan Ghosh**  
-📧 Email: prattyanghosh@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/prattyanghosh) | [Portfolio](https://prattyanghosh.xyz)
+**Pratik Verma**  
+📧 Email: vermapratik2213@gmail.com 
+🔗 [LinkedIn] www.linkedin.com/in/pratikverma1414
 
 ---
 

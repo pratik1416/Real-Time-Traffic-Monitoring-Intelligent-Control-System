@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to the **Real-Time Traffic Monitoring & Intelligent Control System** 🚦  
+Thank you for your interest in contributing to the **Real-Time Traffic Management System** 🚦  
 Contributions are welcome and appreciated!
 
 ---
@@ -25,7 +25,7 @@ Click the **Fork** button on GitHub to create your own copy of the repository.
 
 ### 2️⃣ Clone Your Fork
 ```bash
-git clone https://github.com/prattyan/traffic-manage.git
+git clone https://github.com/pratik1416
 cd traffic-manage
 ```
 
